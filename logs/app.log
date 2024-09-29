@@ -1,0 +1,257 @@
+2024-09-29 10:01:45,027 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:01:47,272 - app_logger - INFO - User category details: indian-army
+2024-09-29 10:01:52,183 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:01:52,184 - app_logger - INFO - User category: indian-army
+2024-09-29 10:01:52,185 - app_logger - INFO - Fetched article: Done
+2024-09-29 10:01:52,232 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:01:52,232 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:02:22,547 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:02:22,547 - app_logger - INFO - User category: indian-army
+2024-09-29 10:02:22,548 - app_logger - INFO - Fetched article: Done
+2024-09-29 10:02:22,548 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:02:22,549 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:05:17,780 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:05:17,781 - app_logger - INFO - User category: indian-army
+2024-09-29 10:05:17,782 - app_logger - INFO - Fetched article: Done
+2024-09-29 10:05:17,782 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:05:17,783 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:06:36,067 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:06:43,996 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:06:43,998 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:07:33,385 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:07:36,135 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:07:38,207 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:38,209 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:07:38,210 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:38,260 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:38,261 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:43,295 - app_logger - INFO - User category details: indian-army
+2024-09-29 10:07:44,863 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:44,864 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:07:44,865 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:44,866 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:44,866 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:48,885 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:48,886 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:07:48,887 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:48,887 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:07:48,887 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:11:40,281 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:11:40,282 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:11:40,282 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:11:40,283 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:11:40,283 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:12:13,756 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:12:13,757 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:12:13,758 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:12:13,758 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:12:13,758 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:00,061 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:00,062 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:14:00,063 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:00,063 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:00,064 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:05,397 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:05,398 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:14:05,398 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:05,399 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:05,399 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:14:30,636 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:15:20,417 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:15:27,360 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:15:27,362 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:15:27,364 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:15:27,410 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:15:27,411 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:17:15,690 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:17:15,691 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:17:15,692 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:17:15,692 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:17:15,692 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:19:12,697 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:19:12,698 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:19:12,699 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:19:12,699 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:19:12,699 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:20:58,414 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:21:22,190 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:22:41,550 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:22:45,285 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:22:45,287 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:22:45,290 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:22:45,346 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:22:45,347 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:13,849 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:13,850 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:23:13,851 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:13,851 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:13,851 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:47,136 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:47,138 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:23:47,139 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:47,140 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:47,140 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:52,116 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:52,117 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:23:52,118 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:52,118 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:23:52,118 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:39:15,784 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:39:16,748 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:39:20,579 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:39:20,582 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:39:20,584 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:39:20,634 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:39:20,635 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 10:42:33,477 - app_logger - INFO - User category details: health
+2024-09-29 10:42:33,478 - app_logger - WARNING - No articles found for category 'health'. Saving new results...
+2024-09-29 10:43:24,140 - app_logger - INFO - Fetching full article for article_id: 1d9c5c4f-dc13-4eec-a65f-f1cbd6c726b1
+2024-09-29 10:43:24,140 - app_logger - INFO - User ashok's category: health
+2024-09-29 10:43:24,141 - app_logger - INFO - Fetched article: 1d9c5c4f-dc13-4eec-a65f-f1cbd6c726b1
+2024-09-29 10:43:24,141 - app_logger - INFO - Initialized chatbot for article: 1d9c5c4f-dc13-4eec-a65f-f1cbd6c726b1
+2024-09-29 10:43:24,142 - app_logger - INFO - Rendering full_article.html for article 1d9c5c4f-dc13-4eec-a65f-f1cbd6c726b1
+2024-09-29 10:43:26,377 - app_logger - INFO - User category details: health
+2024-09-29 10:43:28,363 - app_logger - INFO - Fetching full article for article_id: be4c1492-af2e-45d7-a7de-65077111e683
+2024-09-29 10:43:28,364 - app_logger - INFO - User ashok's category: health
+2024-09-29 10:43:28,366 - app_logger - INFO - Fetched article: be4c1492-af2e-45d7-a7de-65077111e683
+2024-09-29 10:43:28,367 - app_logger - INFO - Initialized chatbot for article: be4c1492-af2e-45d7-a7de-65077111e683
+2024-09-29 10:43:28,367 - app_logger - INFO - Rendering full_article.html for article be4c1492-af2e-45d7-a7de-65077111e683
+2024-09-29 10:46:04,977 - app_logger - INFO - Fetching full article for article_id: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:04,978 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:46:04,979 - app_logger - INFO - Fetched article: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:04,979 - app_logger - INFO - Initialized chatbot for article: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:04,979 - app_logger - INFO - Rendering full_article.html for article 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:08,344 - app_logger - INFO - Fetching full article for article_id: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:08,345 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:46:08,346 - app_logger - INFO - Fetched article: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:08,346 - app_logger - INFO - Initialized chatbot for article: 6dcff24d-ab8c-4171-ab8d-29590fa7bb45
+2024-09-29 10:46:08,346 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:46:08,346 - app_logger - INFO - Received question: When I objected, two female officials started pulling my hair , what is mean of this?
+2024-09-29 10:46:09,524 - app_logger - INFO - Question asked: When I objected, two female officials started pulling my hair , what is mean of this?, Response: The sentence 'When I objected, two female officials started pulling my hair', is describing a physical confrontation or altercation involving the speaker. 
+
+In this context, 'pulling my hair' means that the two female officials grabbed the speaker's hair with their hands and pulled or yanked on it. This is a form of physical aggression or intimidation, often used to assert power or dominance over someone.
+2024-09-29 10:46:50,071 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:46:50,072 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:46:50,073 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:46:50,073 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:46:50,073 - app_logger - INFO - Rendering full_article.html for article bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:47:51,856 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:47:51,857 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:47:51,857 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:47:51,858 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:47:51,858 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:47:51,858 - app_logger - INFO - Received question: what is WhAP?
+2024-09-29 10:47:53,358 - app_logger - INFO - Question asked: what is WhAP?, Response: The WhAP is an amphibious infantry combat vehicle designed to navigate various terrains.
+2024-09-29 10:48:32,947 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:48:32,948 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:48:32,948 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:48:32,949 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:48:32,949 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:48:32,949 - app_logger - INFO - Received question: who desian WhAP?
+2024-09-29 10:48:33,706 - app_logger - INFO - Question asked: who desian WhAP?, Response: The Wheeled Armoured Platforms (WhAP) was developed in collaboration with the Defence Research and Development Organisation (DRDO).
+2024-09-29 10:49:14,335 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:14,336 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:49:14,337 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:14,337 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:14,338 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:49:14,338 - app_logger - INFO - Received question: who are you?
+2024-09-29 10:49:15,026 - app_logger - INFO - Question asked: who are you?, Response: I am a Moneycontrol Pro user (as per the given text).
+2024-09-29 10:49:40,267 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:40,268 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:49:40,269 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:40,270 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:49:40,270 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:49:40,270 - app_logger - INFO - Received question: what as chatgpt?
+2024-09-29 10:49:41,086 - app_logger - INFO - Question asked: what as chatgpt?, Response: I can provide information and answer questions based on the text. What would you like to know?
+2024-09-29 10:50:01,456 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:01,457 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:50:01,458 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:01,458 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:01,458 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:50:01,458 - app_logger - INFO - Received question: 2+2
+2024-09-29 10:50:02,180 - app_logger - INFO - Question asked: 2+2, Response: 2 + 2 = 4.
+2024-09-29 10:50:50,227 - app_logger - INFO - Fetching full article for article_id: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:50,228 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 10:50:50,229 - app_logger - INFO - Fetched article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:50,229 - app_logger - INFO - Initialized chatbot for article: bcd69855-54fa-4da7-bcbc-8822f00e8627
+2024-09-29 10:50:50,229 - app_logger - INFO - Handling POST request for question.
+2024-09-29 10:50:50,229 - app_logger - INFO - Received question: 8+8+8
+2024-09-29 10:50:51,023 - app_logger - INFO - Question asked: 8+8+8, Response: 24.
+2024-09-29 10:56:05,722 - app_logger - INFO - User category details: indian-army
+2024-09-29 10:57:15,533 - app_logger - INFO - User category details: indian-army
+2024-09-29 10:58:49,253 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:59:25,971 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:59:31,781 - app_logger - INFO - Database connection established successfully.
+2024-09-29 10:59:37,546 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:00:37,777 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:00:40,470 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:00:43,230 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:00:46,846 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:00:55,553 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:02:44,105 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:02:49,867 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:02:56,574 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:00,164 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:04,823 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:10,573 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:16,182 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:21,825 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:27,634 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:33,360 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:03:39,990 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:04:45,243 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:04:47,982 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:04:54,712 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:04:57,405 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:00,154 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:02,760 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:07,427 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:11,032 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:13,702 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:16,334 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:22,922 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:32,692 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:39,249 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:43,027 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:45,729 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:05:51,595 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:06:11,059 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:06:15,786 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:06:18,398 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:07:12,880 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:07:13,881 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:07:25,897 - app_logger - INFO - User category details: indian-army
+2024-09-29 11:07:44,451 - app_logger - INFO - Search query received: ['teacher']
+2024-09-29 11:08:26,256 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:08:31,953 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:08:45,440 - app_logger - INFO - Search query received: ['teacher']
+2024-09-29 11:11:13,924 - app_logger - INFO - Search completed successfully.
+2024-09-29 11:11:13,942 - app_logger - ERROR - Error: 'data' is undefined
+2024-09-29 11:11:13,972 - app_logger - INFO - User category details: indian-army
+2024-09-29 11:13:27,900 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:13:56,042 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:13:56,045 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 11:13:56,046 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:13:56,096 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:13:56,096 - app_logger - INFO - Rendering full_article.html for article 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:06,982 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:06,983 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 11:14:06,984 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:06,984 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:06,984 - app_logger - INFO - Handling POST request for question.
+2024-09-29 11:14:06,985 - app_logger - INFO - Received question: who are you?
+2024-09-29 11:14:07,700 - app_logger - INFO - Question asked: who are you?, Response: It's heart-breaking to see the victim shaming. This happened in India.
+2024-09-29 11:14:27,024 - app_logger - INFO - Fetching full article for article_id: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:27,025 - app_logger - INFO - User test2's category: indian-army
+2024-09-29 11:14:27,026 - app_logger - INFO - Fetched article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:27,026 - app_logger - INFO - Initialized chatbot for article: 37c04258-890f-4e9b-ac13-dff57f5f4f81
+2024-09-29 11:14:27,026 - app_logger - INFO - Handling POST request for question.
+2024-09-29 11:14:27,026 - app_logger - INFO - Received question: summary of this>
+2024-09-29 11:14:28,251 - app_logger - INFO - Question asked: summary of this>, Response: The retired judge, who now runs a non-profit for women, says she wants the officers to be booked for this offence.\n“The police officers may have had a job to do – not just booked for rape, but booked for this heinous crime also, so that she can fight her case efficiently, unlike the policewoman who broke down in tears when she saw the victim get raped in front of her, the woman didn’t want to sign her statement to the crime,” added the social worker in her closing statement to the court.\n“It’s their duty to give a statement to the crime branch officer.”\nAdditional reporting by Subrat Kumar Pati in Bhubaneswar about police stations' lack of CCTVs, prompting tirade against women is not very rare, it is so,\" said the social worker involved in the case.\n"There are allegations that no CCTV was available at the police station."
+2024-09-29 11:14:49,990 - app_logger - INFO - Search query received: ['today news']
+2024-09-29 11:16:42,839 - app_logger - INFO - Search completed successfully.
+2024-09-29 11:16:42,846 - app_logger - ERROR - Error: 'data' is undefined
+2024-09-29 11:16:42,867 - app_logger - INFO - User category details: indian-army
+2024-09-29 11:18:23,966 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:18:42,579 - app_logger - INFO - Database connection established successfully.
+2024-09-29 11:18:45,383 - app_logger - INFO - Database connection established successfully.
